@@ -3,5 +3,5 @@ This folder contains my notes for the machine learning course (taught by Andrew 
 
 ## Supplementary materials
 
-* [Lectures on scientific computing in Python] (https://github.com/jrjohansson/scientific-python-lectures)
+* [Lectures on scientific computing in Python](https://github.com/jrjohansson/scientific-python-lectures)
     - IPython notebooks containing lectures on numpy, scipy, and matplotlib
