@@ -7,5 +7,5 @@
 * **Unsupervised learning:** deals with identifying groups or clusters based on observed characteristics. We do not know the "y" variable for some given x, but we can infer it from observing x.
 * **hypothesis:** a function, call it h, that gives the best prediction of y given x. h is characterized by its functional form (linear in parameters) and its parameters. The parameters are estimated using gradient descent (for now...?).
 * **Cost function:** the function we minimize to find the parameters that best describe the relationship between y and x in our data. It is the mean squared deviation between observed value of y and the y given by our hypothesis (for some given values of the parameters)
-* **Gradient descent:** the algorithm used to find the parameters of our hypothesis that minimize the cost function
+* **Gradient descent:** the algorithm used to find the parameters of our hypothesis that minimize the cost function. It takes a guess of the initial values of the parameters and, using the derivatives of the cost function, points to the local optimum through a series of incremental updating of the parameters.
 * **Regression vs classification problem:** regression: continuous y variable (rainfall in mm, weight in kg, house prices); classification: categorical y variable (education categories, spam/not spam, positive / negative sentiment)
