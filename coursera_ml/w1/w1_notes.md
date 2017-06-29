@@ -1,6 +1,13 @@
+## Week 1 Terminologies
 
-## Welcome
+Machine Learning
 
-## Linear regression - single variable
+Supervised learning
 
-## Linear algebra review
+Classification problem
+
+Regression problem
+
+Unsupervised learning
+
+Gradient descent
