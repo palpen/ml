@@ -1,6 +1,8 @@
 .DS_Store
 *.html
 
+coursera_ml.sublime-workspace
+
 coursera_ml/ex1/machine-learning-ex1/
 coursera_ml/ex2/machine-learning-ex2/
 coursera_ml/ex3/machine-learning-ex3/
