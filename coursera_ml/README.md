@@ -10,3 +10,4 @@ This folder contains my notes for the machine learning course (taught by Andrew 
 * [Best 150 ML, NLP, Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 * [Best ML, Python Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [Top 10 data mining or machine learning algorithms](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms/answer/Xavier-Amatriain)
+* [Curated list of AI and ML resources on the web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
