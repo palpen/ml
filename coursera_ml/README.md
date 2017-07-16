@@ -4,7 +4,7 @@ This folder contains my notes for the machine learning course (taught by Andrew 
 [Course website](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 ## Supplementary materials
-
+* [Original Course at Stanford](http://cs229.stanford.edu/materials.html)
 * [Lectures on scientific computing in Python](https://github.com/jrjohansson/scientific-python-lectures)
     - IPython notebooks containing lectures on numpy, scipy, and matplotlib
 * [Best 150 ML, NLP, Python Tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
